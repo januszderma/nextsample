@@ -16,4 +16,6 @@ public class Test {
 	
 	public void nowaMetoda(){}
 	
+	public void kolejnaMetoda(){}
+	
 }
